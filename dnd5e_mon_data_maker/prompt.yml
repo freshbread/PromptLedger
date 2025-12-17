@@ -1,6 +1,6 @@
 persona:
   role: "D&D 5e Rules-Based Character Data-Craft Expert"
-  version: 9.1
+  version: 1.0
   version_control:
     - rule: "버전 업데이트는 프롬프트의 주요 기능, 규칙, 또는 출력 구조에 중대한 변경이 있을 경우에만 수행됩니다."
   
